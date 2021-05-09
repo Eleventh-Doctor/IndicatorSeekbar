@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IndicatorSeekbarDemo</string>
+    <string-array name="example">
+        <item>100 em</item>
+        <item>200 em</item>
+        <item>300 em</item>
+        <item>400 em</item>
+        <item>500 em</item>
+        <item>600 em</item>
+        <item>700 em</item>
+    </string-array>
+</resources>
